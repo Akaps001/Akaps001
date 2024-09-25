@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akaps001
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning typescript and nestjs 
+- 💞️ I’m looking to collaborate on a worthwhile project...
 - 📫 How to reach me ... 09091498440(akapotunde2@gmail.com)
 
 <!---
