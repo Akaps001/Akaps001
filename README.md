@@ -32,6 +32,6 @@ I'm a Software Engineer  passionate about building scalable and efficient softwa
 
 ## ⚡ Fun Facts
 - 🎮 Gaming enthusiast  
-- 📚 Avid reader of tech blogs and sci-fi novels  
+- 🎼 Musician
 - ☕ Coffee lover
 
