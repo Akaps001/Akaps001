@@ -1,37 +1,84 @@
-# Hi there 👋, I'm Emmanuel Ayodeji Akapo
+# Hi there 👋, I'm Akapo Emmanuel
 
-I'm a Software Engineer  passionate about building scalable and efficient software solutions. I love exploring new technologies, solving challenging problems, and contributing to open-source projects.
+## Software Engineer | Backend Developer | AI Enthusiast
 
----
+I'm a Software Engineer passionate about building scalable backend systems, RESTful APIs, and AI-powered applications that solve real-world problems.
 
-## 🛠️ Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+My work focuses on designing clean architectures, optimizing performance, and developing production-ready applications using modern technologies.
 
 ---
 
-## 📂 Featured Projects
-| [Project1](https://github.com/Akaps001/SAVI-API) | A financial application that provides the convenience of secure group of savings and personalized savings plan | C# |
-  | [Project2](https://github.com/Akaps001/Buy-me) | An E-commerce Backend System Overwiew BUYME is a  robust RESTfUL API built with Nestjs that powers an e-commerce platform'backend service  | Nestjs |  MongoDB |
+## 🚀 About Me
+
+* 💻 Software Engineer specializing in Backend Development
+* 🤖 Building AI-powered applications with modern LLMs
+* ☕ Java & Spring Boot Developer
+* 🟢 Node.js & Express.js Developer
+* 🗄️ Database Design & API Development
+* 📈 Google Certified Digital Marketer
+* 🌍 Based in Lagos, Nigeria
+* 📚 Always learning and building
 
 ---
 
+## 🛠️ Tech Stack
 
+### Languages
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akapo-emmanuel-ayodeji)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akapotunde2@gmail.com)
+Java • JavaScript • TypeScript • C# • SQL
+
+### Backend
+
+Spring Boot • Node.js • Express.js • ASP.NET Core
+
+### Databases
+
+MongoDB • SQL Server • PostgreSQL • Redis
+
+### AI
+
+OpenAI API • Prompt Engineering • AI Chat Applications
+
+### DevOps & Tools
+
+Docker • Git • GitHub Actions • Swagger • Postman
+
 ---
 
-## ⚡ Fun Facts
-- 🎮 Gaming enthusiast  
-- 🎼 Musician
-- ☕ Coffee lover
+## 🌟 Featured Projects
 
+### 🤖 AI-Powered Chat Application
+
+A scalable AI chat backend featuring JWT authentication, Redis caching, OpenAI integration, Socket.IO, Swagger documentation, Docker support, and modern backend architecture.
+
+### 📦 Inventory API
+
+A high-performance inventory management API built with C# and SQL Server, optimized for bulk CSV processing using Table-Valued Parameters and layered architecture.
+
+### 🏫 School API
+
+A RESTful backend application designed for managing school operations with clean architecture and scalable API design.
+
+---
+
+## 📈 Currently Working On
+
+* Building scalable AI-powered applications
+* Advanced Backend Architecture
+* Cloud-native development
+* Distributed Systems
+* System Design
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/akapo-emmanuel-12586a1b9/
+
+📂 GitHub: https://github.com/Akaps001
+
+📧 Email: akapotunde2@gmail.com
+
+---
+
+> *"Great software is not just about writing code—it's about solving real problems with scalable, maintainable, and thoughtful engineering."*
